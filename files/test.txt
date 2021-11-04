@@ -6,3 +6,4 @@
 here starts script from heroku
 
 new line2021-11-04 22:09:29.768898;1832
+2021-11-04 20:18:49.178873;1832
